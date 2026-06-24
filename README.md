@@ -17,7 +17,7 @@ I enjoy building real-world applications and continuously improving my technical
 ## 🌐 Live Demo
 
 **Portfolio Website:**  
-((https://praveen-chaubey1402.github.io/portfolio/))
+((https://praveen-chaubey1402.github.io/portfolio))
 
 
 ---
